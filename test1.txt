@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C65B-A971
+
+ Directory of C:\Users\bhavi\Desktop\Bhavin\Preparation2020\Git\MyProject
+
+07/27/2020  10:02 AM    <DIR>          .
+07/27/2020  10:02 AM    <DIR>          ..
+07/27/2020  10:02 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  613,110,779,904 bytes free
